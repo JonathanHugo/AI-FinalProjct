@@ -6,4 +6,4 @@
  Using a data set (https://archive.ics.uci.edu/dataset/22/chess+king+rook+vs+king+pawn) we are able to obtain data on many different models such as accuracy, AUC, recall, precision, F1 score, kappa, and MCC
 
 
-# https://youtu.be/4zHNzoRqkQQ
+https://youtu.be/4zHNzoRqkQQ
